@@ -1,3 +1,12 @@
 /node_modules
 .vscode/
 /wwwroot/dist
+x64/
+x86/
+build/
+bld/
+bin/
+Bin/
+obj/
+Obj/
+dist/
